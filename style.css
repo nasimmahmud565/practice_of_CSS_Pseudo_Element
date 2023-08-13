@@ -1,0 +1,7 @@
+p::first-line{
+    color: red;
+    font-size: 50px;
+}
+h1::after{
+    content: url(star.png);
+}
